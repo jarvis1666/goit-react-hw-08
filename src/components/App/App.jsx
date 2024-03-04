@@ -10,6 +10,8 @@ import { NavBar } from "../NavBar/NavBar";
 //npm install @reduxjs/toolkit react-redux
 //npm install react-router-dom
 //npm install react-loader-spinner
+// npm install axios
+// npm install react-icons --save
 
 const HomePage = lazy(() => import("../../pages/Home"));
 const RegisterPage = lazy(() => import("../../pages/Register"));
